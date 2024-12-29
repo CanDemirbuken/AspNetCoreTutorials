@@ -1,0 +1,30 @@
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\bin\Debug\net8.0\appsettings.json
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\bin\Debug\net8.0\18. E-Commerce Orders App.staticwebassets.endpoints.json
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\bin\Debug\net8.0\18. E-Commerce Orders App.exe
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\bin\Debug\net8.0\18. E-Commerce Orders App.deps.json
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\bin\Debug\net8.0\18. E-Commerce Orders App.runtimeconfig.json
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\bin\Debug\net8.0\18. E-Commerce Orders App.dll
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\bin\Debug\net8.0\18. E-Commerce Orders App.pdb
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\18. E-Commerce Orders App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\18. E-Commerce Orders App.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\18. E-Commerce Orders App.AssemblyInfo.cs
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\18. E-Commerce Orders App.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\18. E-Commerce Orders App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\18. E-Commerce Orders App.sourcelink.json
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\scopedcss\bundle\18. E-Commerce Orders App.styles.css
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\staticwebassets\msbuild.18. E-Commerce Orders App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\staticwebassets\msbuild.18. E-Commerce Orders App.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\staticwebassets\msbuild.build.18. E-Commerce Orders App.props
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.18. E-Commerce Orders App.props
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.18. E-Commerce Orders App.props
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\18. E-Commerce Orders App.dll
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\refint\18. E-Commerce Orders App.dll
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\18. E-Commerce Orders App.pdb
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\18. E-Commerce Orders App.genruntimeconfig.cache
+C:\Users\yasar\source\repos\18. E-Commerce Orders App\18. E-Commerce Orders App\obj\Debug\net8.0\ref\18. E-Commerce Orders App.dll
