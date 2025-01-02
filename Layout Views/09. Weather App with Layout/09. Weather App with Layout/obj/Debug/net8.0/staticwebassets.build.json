@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "Cz/wASjtUPMuuXRgNXmiJZHj8hgKtrEmoOlJyJOVcYY=",
+  "Source": "09. Weather App with Layout",
+  "BasePath": "_content/09. Weather App with Layout",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "09. Weather App with Layout\\wwwroot",
+      "Source": "09. Weather App with Layout",
+      "ContentRoot": "C:\\Users\\yasar\\source\\repos\\09. Weather App with Layout\\09. Weather App with Layout\\wwwroot\\",
+      "BasePath": "_content/09. Weather App with Layout",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\yasar\\source\\repos\\09. Weather App with Layout\\09. Weather App with Layout\\wwwroot\\StyleSheet.css",
+      "SourceId": "09. Weather App with Layout",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yasar\\source\\repos\\09. Weather App with Layout\\09. Weather App with Layout\\wwwroot\\",
+      "BasePath": "_content/09. Weather App with Layout",
+      "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gnsd5elkzt",
+      "Integrity": "TD/fk8+BPcVWCDocLkEheqNS28tYCsh99r+smMthsMk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "C:\\Users\\yasar\\source\\repos\\09. Weather App with Layout\\09. Weather App with Layout\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TD/fk8+BPcVWCDocLkEheqNS28tYCsh99r+smMthsMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 16:30:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TD/fk8+BPcVWCDocLkEheqNS28tYCsh99r+smMthsMk="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.gnsd5elkzt.css",
+      "AssetFile": "C:\\Users\\yasar\\source\\repos\\09. Weather App with Layout\\09. Weather App with Layout\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4359"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TD/fk8+BPcVWCDocLkEheqNS28tYCsh99r+smMthsMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 16:30:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gnsd5elkzt"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TD/fk8+BPcVWCDocLkEheqNS28tYCsh99r+smMthsMk="
+        }
+      ]
+    }
+  ]
+}

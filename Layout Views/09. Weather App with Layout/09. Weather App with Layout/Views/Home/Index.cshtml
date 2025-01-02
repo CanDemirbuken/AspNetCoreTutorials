@@ -1,0 +1,28 @@
+﻿@model IEnumerable<CityWeather>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Weather</h1>
+<div class="container flex">
+    @foreach (var item in Model)
+    {
+        <div class="box @GetBackgroundClass(item.TemperatureFahrenheit)">
+            <h2>@item.CityName</h2>
+            <p>@item.DateAndTime</p>
+            <h1>@item.TemperatureFahrenheit<span>&deg;F</span></h1>
+            <a href="/weather/@item.CityUniqueCode" class="details-link">Details</a>
+        </div>
+    }
+</div>
+
+@functions {
+    string GetBackgroundClass(int temperature)
+    {
+        if (temperature < 50) return "blue-back";
+        if (temperature < 70) return "green-back";
+        return "orange-back";
+    }
+}
+
