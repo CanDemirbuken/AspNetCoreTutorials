@@ -1,0 +1,702 @@
+{
+  "Version": 1,
+  "Hash": "2OhdMTD5v31T/qqw9MVy7oSRQ/q7WoBskLQaA4j2hQE=",
+  "Source": "27. Stock App with xUnit",
+  "BasePath": "_content/27. Stock App with xUnit",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "27. Stock App with xUnit\\wwwroot",
+      "Source": "27. Stock App with xUnit",
+      "ContentRoot": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\wwwroot\\",
+      "BasePath": "_content/27. Stock App with xUnit",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\obj\\Debug\\net9.0\\compressed\\q0h443rd3n-ak3b96vbib.gz",
+      "SourceId": "27. Stock App with xUnit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/27. Stock App with xUnit",
+      "RelativePath": "Scripts/FinnhubScript#[.{fingerprint=ak3b96vbib}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\wwwroot\\Scripts\\FinnhubScript.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "nfu1ofbniq",
+      "Integrity": "U3TPVoJ/aiJJIVKN6qXWk1G741XwcLyiSt/it1oA5bw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\wwwroot\\Scripts\\FinnhubScript.js"
+    },
+    {
+      "Identity": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\obj\\Debug\\net9.0\\compressed\\ztsfz7zv2r-okagqheipi.gz",
+      "SourceId": "27. Stock App with xUnit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/27. Stock App with xUnit",
+      "RelativePath": "StyleSheet#[.{fingerprint=okagqheipi}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\wwwroot\\StyleSheet.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "1fw1zvuqsf",
+      "Integrity": "XZnaID8qpqBG4fi/AMy+G5NQugxEpdoAhr7IxrcmpY4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\wwwroot\\StyleSheet.css"
+    },
+    {
+      "Identity": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\wwwroot\\Scripts\\FinnhubScript.js",
+      "SourceId": "27. Stock App with xUnit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\wwwroot\\",
+      "BasePath": "_content/27. Stock App with xUnit",
+      "RelativePath": "Scripts/FinnhubScript#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ak3b96vbib",
+      "Integrity": "yhe8IqC6711kw1V1EHBhmSQbvWbxQJG4HSYq26Lp3sY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\FinnhubScript.js"
+    },
+    {
+      "Identity": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\wwwroot\\StyleSheet.css",
+      "SourceId": "27. Stock App with xUnit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\wwwroot\\",
+      "BasePath": "_content/27. Stock App with xUnit",
+      "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "okagqheipi",
+      "Integrity": "iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Scripts/FinnhubScript.ak3b96vbib.js",
+      "AssetFile": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\obj\\Debug\\net9.0\\compressed\\q0h443rd3n-ak3b96vbib.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001082251082"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "923"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U3TPVoJ/aiJJIVKN6qXWk1G741XwcLyiSt/it1oA5bw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 15:21:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yhe8IqC6711kw1V1EHBhmSQbvWbxQJG4HSYq26Lp3sY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ak3b96vbib"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/FinnhubScript.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yhe8IqC6711kw1V1EHBhmSQbvWbxQJG4HSYq26Lp3sY="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/FinnhubScript.ak3b96vbib.js",
+      "AssetFile": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\wwwroot\\Scripts\\FinnhubScript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yhe8IqC6711kw1V1EHBhmSQbvWbxQJG4HSYq26Lp3sY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 15:21:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ak3b96vbib"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/FinnhubScript.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yhe8IqC6711kw1V1EHBhmSQbvWbxQJG4HSYq26Lp3sY="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/FinnhubScript.ak3b96vbib.js.gz",
+      "AssetFile": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\obj\\Debug\\net9.0\\compressed\\q0h443rd3n-ak3b96vbib.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "923"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U3TPVoJ/aiJJIVKN6qXWk1G741XwcLyiSt/it1oA5bw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 15:21:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ak3b96vbib"
+        },
+        {
+          "Name": "label",
+          "Value": "Scripts/FinnhubScript.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U3TPVoJ/aiJJIVKN6qXWk1G741XwcLyiSt/it1oA5bw="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/FinnhubScript.js",
+      "AssetFile": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\obj\\Debug\\net9.0\\compressed\\q0h443rd3n-ak3b96vbib.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001082251082"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "923"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U3TPVoJ/aiJJIVKN6qXWk1G741XwcLyiSt/it1oA5bw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 15:21:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yhe8IqC6711kw1V1EHBhmSQbvWbxQJG4HSYq26Lp3sY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yhe8IqC6711kw1V1EHBhmSQbvWbxQJG4HSYq26Lp3sY="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/FinnhubScript.js",
+      "AssetFile": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\wwwroot\\Scripts\\FinnhubScript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yhe8IqC6711kw1V1EHBhmSQbvWbxQJG4HSYq26Lp3sY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 15:21:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yhe8IqC6711kw1V1EHBhmSQbvWbxQJG4HSYq26Lp3sY="
+        }
+      ]
+    },
+    {
+      "Route": "Scripts/FinnhubScript.js.gz",
+      "AssetFile": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\obj\\Debug\\net9.0\\compressed\\q0h443rd3n-ak3b96vbib.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "923"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U3TPVoJ/aiJJIVKN6qXWk1G741XwcLyiSt/it1oA5bw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 15:21:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U3TPVoJ/aiJJIVKN6qXWk1G741XwcLyiSt/it1oA5bw="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\obj\\Debug\\net9.0\\compressed\\ztsfz7zv2r-okagqheipi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000512032770"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1952"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XZnaID8qpqBG4fi/AMy+G5NQugxEpdoAhr7IxrcmpY4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 14:29:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 14:29:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css.gz",
+      "AssetFile": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\obj\\Debug\\net9.0\\compressed\\ztsfz7zv2r-okagqheipi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XZnaID8qpqBG4fi/AMy+G5NQugxEpdoAhr7IxrcmpY4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 14:29:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XZnaID8qpqBG4fi/AMy+G5NQugxEpdoAhr7IxrcmpY4="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.okagqheipi.css",
+      "AssetFile": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\obj\\Debug\\net9.0\\compressed\\ztsfz7zv2r-okagqheipi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000512032770"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1952"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XZnaID8qpqBG4fi/AMy+G5NQugxEpdoAhr7IxrcmpY4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 14:29:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "okagqheipi"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.okagqheipi.css",
+      "AssetFile": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 14:29:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "okagqheipi"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.okagqheipi.css.gz",
+      "AssetFile": "C:\\Users\\yasar\\source\\repos\\27. Stock App with xUnit\\27. Stock App with xUnit\\obj\\Debug\\net9.0\\compressed\\ztsfz7zv2r-okagqheipi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1952"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XZnaID8qpqBG4fi/AMy+G5NQugxEpdoAhr7IxrcmpY4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 14:29:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "okagqheipi"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XZnaID8qpqBG4fi/AMy+G5NQugxEpdoAhr7IxrcmpY4="
+        }
+      ]
+    }
+  ]
+}
