@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\09. Bank App Tutorial.props" />
-</Project>
