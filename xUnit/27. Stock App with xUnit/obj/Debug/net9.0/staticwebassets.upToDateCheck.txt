@@ -1,4 +1,0 @@
-C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\wwwroot\Scripts\FinnhubScript.js
-C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\wwwroot\StyleSheet.css
-wwwroot\Scripts\FinnhubScript.js
-wwwroot\StyleSheet.css
