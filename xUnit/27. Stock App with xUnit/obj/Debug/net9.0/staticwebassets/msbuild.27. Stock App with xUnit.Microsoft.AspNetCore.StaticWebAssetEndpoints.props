@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/27. Stock App with xUnit/Scripts/FinnhubScript.ak3b96vbib.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\FinnhubScript.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ak3b96vbib"},{"Name":"integrity","Value":"sha256-yhe8IqC6711kw1V1EHBhmSQbvWbxQJG4HSYq26Lp3sY="},{"Name":"label","Value":"_content/27. Stock App with xUnit/Scripts/FinnhubScript.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2011"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022yhe8IqC6711kw1V1EHBhmSQbvWbxQJG4HSYq26Lp3sY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Jan 2025 15:21:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/27. Stock App with xUnit/Scripts/FinnhubScript.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Scripts\FinnhubScript.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yhe8IqC6711kw1V1EHBhmSQbvWbxQJG4HSYq26Lp3sY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2011"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022yhe8IqC6711kw1V1EHBhmSQbvWbxQJG4HSYq26Lp3sY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Jan 2025 15:21:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/27. Stock App with xUnit/StyleSheet.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\StyleSheet.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8423"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Jan 2025 14:29:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/27. Stock App with xUnit/StyleSheet.okagqheipi.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\StyleSheet.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"okagqheipi"},{"Name":"integrity","Value":"sha256-iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg="},{"Name":"label","Value":"_content/27. Stock App with xUnit/StyleSheet.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8423"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022iDdvFBO4c05TYgSBuiYQLdgS6xzlYw3EuJFvzcKkqBg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Jan 2025 14:29:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

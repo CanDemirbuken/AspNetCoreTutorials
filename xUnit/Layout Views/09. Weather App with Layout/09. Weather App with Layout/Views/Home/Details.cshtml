@@ -1,0 +1,17 @@
+﻿@model CityWeather
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Weather</h1>
+<div class="weather-details">
+    <div>
+        <h2>@Model.CityName</h2>
+        <p>@Model.DateAndTime.ToString("dd MMM yyyy hh:mm tt")</p>
+    </div>
+    <div>
+        <h1>@Model.TemperatureFahrenheit<span>&deg;F</span></h1>
+    </div>
+</div>
+<a href="/" class="back-link">Back to Weather Home Page</a>

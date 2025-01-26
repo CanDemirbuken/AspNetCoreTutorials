@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\27. Stock App with xUnit.props" />
+</Project>

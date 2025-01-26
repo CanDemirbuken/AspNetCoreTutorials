@@ -1,0 +1,43 @@
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\bin\Debug\net9.0\appsettings.json
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\bin\Debug\net9.0\27. Stock App with xUnit.staticwebassets.runtime.json
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\bin\Debug\net9.0\27. Stock App with xUnit.staticwebassets.endpoints.json
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\bin\Debug\net9.0\27. Stock App with xUnit.exe
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\bin\Debug\net9.0\27. Stock App with xUnit.deps.json
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\bin\Debug\net9.0\27. Stock App with xUnit.runtimeconfig.json
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\bin\Debug\net9.0\27. Stock App with xUnit.dll
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\bin\Debug\net9.0\27. Stock App with xUnit.pdb
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\27. Stock App with xUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\27. Stock App with xUnit.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\27. Stock App with xUnit.AssemblyInfo.cs
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\27. Stock App with xUnit.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\27. Stock App with xUnit.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\27. Stock App with xUnit.RazorAssemblyInfo.cache
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\27. Stock App with xUnit.RazorAssemblyInfo.cs
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\27. Stock App with xUnit.sourcelink.json
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\scopedcss\bundle\27. Stock App with xUnit.styles.css
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\compressed\ztsfz7zv2r-okagqheipi.gz
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\staticwebassets\msbuild.27. Stock App with xUnit.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\staticwebassets\msbuild.27. Stock App with xUnit.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\staticwebassets\msbuild.build.27. Stock App with xUnit.props
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.27. Stock App with xUnit.props
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.27. Stock App with xUnit.props
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\27. Stock App with xUnit.dll
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\refint\27. Stock App with xUnit.dll
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\27. Stock App with xUnit.pdb
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\27. Stock App with xUnit.genruntimeconfig.cache
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\ref\27. Stock App with xUnit.dll
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\bin\Debug\net9.0\Entities.dll
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\bin\Debug\net9.0\ServiceContracts.dll
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\bin\Debug\net9.0\Services.dll
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\bin\Debug\net9.0\ServiceContracts.pdb
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\bin\Debug\net9.0\Services.pdb
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\bin\Debug\net9.0\Entities.pdb
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\27. Stock App with xUnit.csproj.AssemblyReference.cache
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\27. Stoc.D420CD32.Up2Date
+C:\Users\yasar\source\repos\27. Stock App with xUnit\27. Stock App with xUnit\obj\Debug\net9.0\compressed\q0h443rd3n-ak3b96vbib.gz
