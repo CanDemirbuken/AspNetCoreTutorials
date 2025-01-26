@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\27. Stock App with xUnit.props" />
-</Project>
