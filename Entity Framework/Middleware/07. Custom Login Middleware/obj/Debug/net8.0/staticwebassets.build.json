@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6T0xaefrc6Q4JedZdHLZw6oJg0agM0p+J0wlT5LSUD8=",
+  "Source": "UseCustomLoginMiddleware",
+  "BasePath": "_content/UseCustomLoginMiddleware",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

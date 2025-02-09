@@ -1,0 +1,31 @@
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\bin\Debug\net8.0\appsettings.json
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\bin\Debug\net8.0\09. Bank App Tutorial.staticwebassets.runtime.json
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\bin\Debug\net8.0\09. Bank App Tutorial.staticwebassets.endpoints.json
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\bin\Debug\net8.0\09. Bank App Tutorial.exe
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\bin\Debug\net8.0\09. Bank App Tutorial.deps.json
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\bin\Debug\net8.0\09. Bank App Tutorial.runtimeconfig.json
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\bin\Debug\net8.0\09. Bank App Tutorial.dll
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\bin\Debug\net8.0\09. Bank App Tutorial.pdb
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\09. Bank App Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\09. Bank App Tutorial.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\09. Bank App Tutorial.AssemblyInfo.cs
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\09. Bank App Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\09. Bank App Tutorial.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\09. Bank App Tutorial.sourcelink.json
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\scopedcss\bundle\09. Bank App Tutorial.styles.css
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\staticwebassets\msbuild.09. Bank App Tutorial.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\staticwebassets\msbuild.09. Bank App Tutorial.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\staticwebassets\msbuild.build.09. Bank App Tutorial.props
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.09. Bank App Tutorial.props
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.09. Bank App Tutorial.props
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\09. Bank App Tutorial.dll
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\refint\09. Bank App Tutorial.dll
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\09. Bank App Tutorial.pdb
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\09. Bank App Tutorial.genruntimeconfig.cache
+C:\Users\yasar\source\repos\09. Bank App Tutorial\09. Bank App Tutorial\obj\Debug\net8.0\ref\09. Bank App Tutorial.dll
